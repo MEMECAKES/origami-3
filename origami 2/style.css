@@ -1,11 +1,9 @@
 .grid{
     display:flex;
     flex-wrap:wrap;
+    margin: 40px;
 }
-.origami{
-    display:flex;
-    justify-content:center;
-}
+
 
 .menu{
     display:flex;
